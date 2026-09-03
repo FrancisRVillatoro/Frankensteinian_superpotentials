@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived Zenodo release and the associated paper."
+title: "Reproducibility code for \"Frankensteinian superpotentials: canonical decomposition, sewing regularity and singular limits\""
+abstract: "Python code that regenerates the figures used in the manuscript on the canonical BPS structure, sewing regularity, and singular limits of Frankensteinian scalar-field potentials."
+version: 1.0.0
+date-released: 2026-09-03
+license: MIT
+type: software
+authors:
+  - family-names: "Villatoro"
+    given-names: "Francisco R."
+    affiliation: "Universidad de Malaga, Spain"
+    orcid: "https://orcid.org/0000-0003-4314-6213"
+keywords:
+  - kink
+  - soliton
+  - Frankensteinian potential
+  - superpotential
+  - BPS
+  - point interaction
+  - singular limit
+repository-code: "https://github.com/FrancisRVillatoro/Frankensteinian_superpotentials"
+preferred-citation:
+  type: article
+  title: "Frankensteinian superpotentials: canonical decomposition, sewing regularity and singular limits"
+  authors:
+    - family-names: "Villatoro"
+      given-names: "Francisco R."
+      affiliation: "Universidad de Malaga, Spain"
+  journal: "Physical Review D"
+  year: 2026
