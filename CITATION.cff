@@ -3,9 +3,15 @@ message: "If you use this software, please cite the archived Zenodo release and 
 title: "Reproducibility code for \"Frankensteinian superpotentials: canonical decomposition, sewing regularity and singular limits\""
 abstract: "Python code that regenerates the figures used in the manuscript on the canonical BPS structure, sewing regularity, and singular limits of Frankensteinian scalar-field potentials."
 version: 1.0.0
-date-released: 2026-09-03
+date-released: 2026-09-04
 license: MIT
 type: software
+doi: "10.5281/zenodo.22309294"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22309294"
+  - type: doi
+    value: "10.5281/zenodo.22309293"
 authors:
   - family-names: "Villatoro"
     given-names: "Francisco R."
@@ -20,6 +26,7 @@ keywords:
   - point interaction
   - singular limit
 repository-code: "https://github.com/FrancisRVillatoro/Frankensteinian_superpotentials"
+url: "https://doi.org/10.5281/zenodo.22309294"
 preferred-citation:
   type: article
   title: "Frankensteinian superpotentials: canonical decomposition, sewing regularity and singular limits"
