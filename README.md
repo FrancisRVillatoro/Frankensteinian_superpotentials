@@ -39,12 +39,23 @@ It has been tested with Python 3.13.5, NumPy 2.3.5, and Matplotlib 3.10.8.
 
 PNG versions are also generated for convenient inspection.
 
+## Archived release
+
+The first archived release is `v1.0.0` (September 4, 2026).
+
+- Version-specific DOI: **10.5281/zenodo.22309294**
+- Concept DOI for all versions: **10.5281/zenodo.22309293**
+
+For exact reproducibility of the manuscript figures, cite the version-specific DOI. The concept DOI always resolves to the latest archived version.
+
 ## License
 
 The code and generated figures are released under the MIT License. If the material is reused in a scientific publication, please cite the associated manuscript and the archived Zenodo release.
 
 ## Citation
 
-The first archived release will be tagged `v1.0.0` and preserved through the GitHub-Zenodo integration. The Zenodo DOI will be added here after the release has been archived.
+For this archived release, please cite:
+
+> Villatoro, F. R. (2026). *Reproducibility code for "Frankensteinian superpotentials: canonical decomposition, sewing regularity and singular limits"* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22309294
 
 See also `CITATION.cff`.
